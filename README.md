@@ -1,7 +1,7 @@
 <div align="center">
 <h1>JBK STUDIO<h1>  
   <a href="https://shiiou.github.io/">
-    <!--<img src="img/shiioumew.png" alt="byXao" width="100%">-->
+    <img src="img/jbk.png" alt="by shiiou" width="100%">
   </a>
 </div>
 
